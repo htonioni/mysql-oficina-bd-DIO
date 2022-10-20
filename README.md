@@ -23,10 +23,11 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
 </b>
-(img)
+![img](https://github.com/htonioni/mysql-oficina-bd-DIO/oficina_imagem.png)
+
 ## Ferramentas utilizadas
 
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Certificado
-(img)
+![img](https://github.com/htonioni/mysql-oficina-bd-DIO/tree/main/certificado)
