@@ -1,7 +1,7 @@
 # Desafio de Projeto da DIO - Construindo um Esquema Conceitual para Banco De dados
 #### Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma [DIO.](https://www.dio.me/)
 
-### Descrição do Desafio
+## Descrição do Desafio
 _"Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos."_ 
 
 Instrutora: *Juliana Mascarenhas*
@@ -10,6 +10,8 @@ Instrutora: *Juliana Mascarenhas*
 ### **Objetivo:**
 
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+
+
 
 ### Narrativa:
 
@@ -22,12 +24,9 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-</b>
-![img](https://github.com/htonioni/mysql-oficina-bd-DIO/oficina_imagem.png)
+![](https://github.com/htonioni/mysql-oficina-bd-DIO/blob/main/oficina_imagem.png)
 
-## Ferramentas utilizadas
 
-- [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Certificado
-![img](https://github.com/htonioni/mysql-oficina-bd-DIO/tree/main/certificado)
+![](https://github.com/htonioni/mysql-oficina-bd-DIO/blob/main/certificado/certificado.jpg)
