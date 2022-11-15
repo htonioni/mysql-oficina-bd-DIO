@@ -9,7 +9,7 @@ Instrutora: *Juliana Mascarenhas*
 
 ### **Objetivo:**
 
-Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+Criação de um esquema conceitual para o contexto de oficina com base na narrativa que foi fornecida.
 
 
 
